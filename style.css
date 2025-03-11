@@ -1,3 +1,9 @@
 .student-container{
     border: solid 2px crimson;
 }
+
+#students-container{
+    display: grid;
+    grid-template-columns: 500px 500px;
+    grid-template-rows: 300px 300px 300px 300px;
+}
